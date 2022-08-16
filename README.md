@@ -10,6 +10,7 @@ Funktion: ermöglicht die Identifizierung von offenen Leserastern (Open Reading 
 
 Umgang mit Introns: Das Programm ist so ausgelegt, alle Kleinbuchstaben aus der Sequenz zu entfernen.
 		    ORF-Längen und Positionen sind also immer ohne Introns angegeben.
+		    Unbekannte Basen (N) werden im Strang belassen.
 
 
 Aufruf des Programms mit folgendem Eingabeformat über die Shell:
