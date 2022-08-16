@@ -44,7 +44,7 @@ Eingabe von Suchparametern für ORFs:
 	Eukaryoten:	["ATG"]
 
 	Stop-Codons (unabhängig von Spezies):
-	["TAG", "TGA", "TTA"]
+	["TAG", "TGA", "TAA"]
 
 	4) Beantworten der Frage, ob nach regulatorischen Elementen gesucht werden soll:
 	   ('y' für ja, beliebige Eingabe für nein)
