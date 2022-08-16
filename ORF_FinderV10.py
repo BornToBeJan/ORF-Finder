@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 14 09:36:44 2022
 
-@author: Jan Renziehausen und Florian Carlo Fischer
+@author: Jan Renziehausen
 about: ORF Finder
 """
 
