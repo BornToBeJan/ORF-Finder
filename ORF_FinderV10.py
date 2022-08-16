@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 14 09:36:44 2022
 
-@author: Jan Renziehausen
+@author: Jan Renziehausen und Florian Carlo Fischer
 about: ORF Finder
 """
 
@@ -57,8 +57,8 @@ def CutIntronsAndCreateReverseComplement(Sequence):
              ComplSeq += 'A'
         elif letter == 'G':
              ComplSeq += 'C'
-        elif letter == 'N':
-             ComplSeq += 'N'
+        elif ord(letter) > 64 and ord(letter) < 91:
+             ComplSeq += letter
         else:
             continue
         
