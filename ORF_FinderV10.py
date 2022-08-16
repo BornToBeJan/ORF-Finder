@@ -37,9 +37,9 @@ def readFile(Pfad):
 
 
 
-######################################
-# Funktion zum Entfernen der Introns #
-######################################
+###############################################################
+# Funktion zum Erzeugen der Stränge und Entfernen der Introns #
+###############################################################
 
 def CutIntronsAndCreateReverseComplement(Sequence):
     
