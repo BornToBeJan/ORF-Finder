@@ -31,12 +31,12 @@ Eingabe von Suchparametern für ORFs:
 	2) maximale Länge des ORFs: Ganzzahl >= Minimum und <= 2.5 Mio oder 'a' für default Einstellung
 				 default: 2.5 Mio
 	
-	3) Angabe der Spezies, aus dem die Sequenz stammt:
+	3) Angabe des Organismus, aus dem die Sequenz stammt:
 	'v': Virus
 	'p': Prokaryot
 	'e': Eukaryot
 	
-	folgende Start- und Stopcodons werden nach Wahl der Spezies hinterlegt:
+	folgende Start- und Stopcodons werden nach Wahl des Organismus hinterlegt:
 	
 	Start-Codons:
 	Viren: 		["ATG", "CTG", "GTG"]
@@ -60,7 +60,7 @@ Eingabe von Suchparametern für ORFs:
 	Eukaryoten: 	TATA-Boxen 
 			[ "TATAAAA","TATAAAT","TATATAA","TATATAT"] Distanz vom ORF: 25 bis 36 Basenpaare
 	
-	Es wird nur nach den regulatorischen Elementen der angegebenen Spezies gesucht.		 
+	Es wird nur nach den regulatorischen Elementen des gewählten Organismus gesucht.		 
 	
 Ausgabe des Ergebnisses im .csv - Format:
 	
