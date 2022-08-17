@@ -49,7 +49,7 @@ Eingabe von Suchparametern für ORFs:
 	4) Beantworten der Frage, ob nach regulatorischen Elementen gesucht werden soll:
 	   ('y' für ja, beliebige Eingabe für nein)
 	
-	Es wird je nach Wahl der Spezies nach folgenden regulatorischen Elementen in einem definierten 
+	Es wird je nach Wahl des Organismus nach folgenden regulatorischen Elementen in einem definierten 
 	Abstand vom ORF gesucht.
 	(Distanz gemessen von der ersten Base der Konsensus-Sequenz des regulatorischen Elements zur ersten Base 
 	des Startcodons des ORFs):
