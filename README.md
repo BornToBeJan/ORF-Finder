@@ -1,6 +1,6 @@
 # ORF-Finder
 
-ORF Finder by Jan Renziehausen
+ORF Finder by Jan Renziehausen & Florian Carlo Fischer
 
 Funktion: ermöglicht die Identifizierung von offenen Leserastern (Open Reading Frames) in Sequenzdateien im 
 	  FASTA-Format. Das Programm identifziert Start- und Stopcodons innerhalb der Sequenz innerhalb aller 3 möglichen 
